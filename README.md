@@ -1,7 +1,7 @@
 ### 작성중 입니다.😶
 
 ## 기술 블로그
-https://velog.io/@chojs28
+https://velog.io/@chojs28{:target="_blank"}
 
 <!-- <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/> -->
 <!--
