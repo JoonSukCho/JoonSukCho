@@ -1,5 +1,8 @@
 ### 작성중 입니다.😶
 
+## 기술 블로그
+https://velog.io/@chojs28
+
 <!-- <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/> -->
 <!--
 **JoonSukCho/JoonSukCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
