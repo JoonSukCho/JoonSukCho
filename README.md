@@ -3,6 +3,9 @@
 ## 개인 블로그 ✍
 <a href="https://velog.io/@chojs28" target="_blank">https://velog.io/@chojs28</a>
 
+## 웹 포트폴리오 📋
+<a href="http://chojs28-portfolio.ga/" target="_blank">http://chojs28-portfolio.ga/</a>
+
 <!-- <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/> -->
 <!--
 **JoonSukCho/JoonSukCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
