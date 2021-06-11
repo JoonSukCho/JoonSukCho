@@ -2,6 +2,7 @@
 
 ## 기술 블로그
 (https://velog.io/@chojs28){:target="_blank"}
+[새 탭에서 열기](https://www.google.com/){:target="_blank"}
 
 <!-- <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/> -->
 <!--
