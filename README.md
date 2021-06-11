@@ -1,9 +1,7 @@
 ### 작성중 입니다.😶
 
 ## 기술 블로그
-(https://velog.io/@chojs28){:target="_blank"}
-[새 탭에서 열기](https://www.google.com/){: target="_blank"}
-<a href="http://example.com/" target="_blank">example</a>
+<a href="https://velog.io/@chojs28" target="_blank">https://velog.io/@chojs28</a>
 
 <!-- <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/> -->
 <!--
