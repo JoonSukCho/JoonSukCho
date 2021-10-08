@@ -1,8 +1,8 @@
 
 ## 개인 블로그 ✍
 <a href="https://velog.io/@chojs28" target="_blank">https://velog.io/@chojs28</a>
-#### velog에서 tistory로 이전중
-<a href="https://jsjsdev.tistory.com/" target="_blank">https://jsjsdev.tistory.com/</a>
+#### velog에서 Notion으로 이동중
+정리 되면 url 공개 할 예정입니다.
 
 ## 웹 포트폴리오 📋
 <a href="http://chojs28-portfolio.ga/" target="_blank">http://chojs28-portfolio.ga/</a>
