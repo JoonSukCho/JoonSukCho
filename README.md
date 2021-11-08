@@ -4,9 +4,6 @@
 #### velog에서 Notion으로 이동중
 정리 되면 url 공개 할 예정입니다.
 
-## 웹 포트폴리오 📋
-<a href="http://chojs28-portfolio.ga/" target="_blank">http://chojs28-portfolio.ga/</a>
-
 <!-- <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=white"/> -->
 <!--
 **JoonSukCho/JoonSukCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
