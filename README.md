@@ -8,6 +8,6 @@
       JS` DevLog  
     </a>
   </h3>
-  </br>
+  
 ![JoonSuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonSukCho&show_icons=true&theme=default)
 </div>
