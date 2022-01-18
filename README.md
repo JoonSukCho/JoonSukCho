@@ -1,4 +1,5 @@
 
+<div align="center">
 ## 개인 블로그 ✍
 
 <h3>
@@ -7,6 +8,5 @@
   </a>
 </h3>
 
-#
 ![JoonSuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonSukCho&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoonSukCho&layout=compact&theme=default)
+</div>
