@@ -46,10 +46,5 @@ UI/UX에 관심이 많은 3년차 Front End Developer 입니다.
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 </p>
 
-<br />
-
-## GITHUB STATS
-
-![JoonSuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoonSukCho&show_icons=true&theme=default)
 
 
