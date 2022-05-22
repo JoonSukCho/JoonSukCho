@@ -1,9 +1,13 @@
 
 ## ABOUT ME
 <p>
-UI/UX에 관심이 많은 3년차 Front End Developer 입니다.
+UI/UX에 관심이 많은 Front End 개발자 입니다.
 <br />
-주로 React, Typescript를 사용하고 있으며 Next.js에 관심이 있습니다.
+성능을 개선하는 것을 좋아하며, 확장성과 유지보수가 용이한 코드를 작성하기 위해 노력하고 있습니다.
+<br />
+주로 React, Next.js, Typescript를 사용합니다.
+<br />
+최근에는 TDD와 디자인 시스템에 관심을 가지고 있습니다.
 </p>
 
 <p>
